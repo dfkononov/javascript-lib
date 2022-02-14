@@ -1,0 +1,1 @@
+1. Application javascript-lib has been successfully deployed!!
